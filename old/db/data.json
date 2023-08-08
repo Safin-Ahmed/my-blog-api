@@ -1,0 +1,43 @@
+{
+  "users": [],
+  "articles": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "First Article",
+      "body": "Body of the first article",
+      "status": "published",
+      "createdAt": "2023-06-30T15:39:25.626Z",
+      "updatedAt": "2023-06-30T15:39:25.626Z"
+    },
+    {
+      "id": 2,
+      "authorId": 1,
+      "title": "Second Article",
+      "body": "Body of the second article",
+      "status": "published",
+      "createdAt": "2023-06-30T15:39:25.626Z",
+      "updatedAt": "2023-06-30T15:39:25.626Z"
+    },
+    {
+      "id": 3,
+      "authorId": 1,
+      "title": "Third Article",
+      "body": "Body of the third article",
+      "status": "published",
+      "createdAt": "2023-06-30T18:46:15.934Z",
+      "updatedAt": "2023-06-30T18:46:15.934Z"
+    },
+    {
+      "title": "Article 4",
+      "body": "This article will be saved in the db",
+      "cover": "https://s3.aws.example.com/23nds",
+      "status": "draft",
+      "authorId": 999,
+      "id": 5,
+      "createdAt": "2023-07-18T09:17:27.313Z",
+      "updatedAt": "Tue Jul 18 2023 15:17:27 GMT+0600 (Bangladesh Standard Time)"
+    }
+  ],
+  "comments": []
+}
