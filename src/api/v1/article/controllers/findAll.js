@@ -1,6 +1,5 @@
 const articleService = require("../../../../lib/article");
 const {
-  generateQueryString,
   objectGenerator,
   paginationGenerator,
   hateoasGenerator,
